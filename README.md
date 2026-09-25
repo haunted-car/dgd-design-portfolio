@@ -1,6 +1,4 @@
-# dgd-design-portfolio
-
-game title: After-Glade
+# dgd-design-portfolio -- After-Glade
 
 After-Glade is a game about riding a motorcycle through fast-platformer-based stages: ranging from cloudy-deserts to rainy-graveyards. Your goal is to collect all sorts of peanut butter jars and spend them to upgrade your bike. Maybe you just want to chill: you can explore a small city with all sorts of secrets and fun stuff. 
 
