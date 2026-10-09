@@ -6,9 +6,11 @@ This game can be compared to Sonic The Hedgehog, but keeps it originality. After
 
 You can win each stage by reaching the finish line, which depending on the size will have more checkpoints, as for convenience. When you drive in jelly (acts as oil) you will slide and lose a spoon. Lose all spoons and you restart at the last checkpoint. Each stage will contain a certain amount of spoons to replenish your status.
 
-Initial asset list: main menu background, peanut butter collect animation, stunt points UI, moving background non-pixelated, region complete score, pixelated characters, collection booth of peanut butter jars, in-game badges, and non-linear decisions you can make.
+Initial asset list:
+UI: main menu, pause menu, peanut butter collect animation, stunt points, region complete score, and in-game badges. 
+Other: moving background, G (dragon/cat hybrid character), Bagel (eagle character), Underscored (deer character), collection booth, region train, peanut butter jar, jelly spill, and air fan. 
 
-Mechanics: there are jumps, driving, and jam spills at the moment.
+Mechanics: there are jumps, driving, jam spills, and air floating.
 
 Dynamics: airborne tricks right after you jump off the ramp, and drifting in jam to get a slight speed boost.
 
