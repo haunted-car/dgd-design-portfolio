@@ -8,7 +8,9 @@ You can win each stage by reaching the finish line, which depending on the size 
 
 Initial asset list:
 UI: main menu, pause menu, peanut butter collect animation, stunt points, region complete score, and in-game badges. 
-Other: moving background, G (dragon/cat hybrid character), Bagel (eagle character), Underscored (deer character), collection booth, region train, peanut butter jar, jelly spill, and air fan. 
+Hazards: jelly spill, jelly-throwing catapoult.
+Other: moving background, collection booth, region train, peanut butter jar, and air fan.
+Characters: G (dragon/cat hybrid character), Bagel (eagle character), Underscored (deer character)  
 
 Mechanics: there are jumps, driving, jam spills, and air floating.
 
