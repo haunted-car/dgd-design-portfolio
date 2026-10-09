@@ -19,7 +19,7 @@ UI: main menu, pause menu, peanut butter collect animation, stunt points, specia
 
 Hazards: jelly spill, jelly-throwing catapoult.
 
-Other: moving background, collection booth, region train, peanut butter jar, and air fan.
+Other: moving background, collection booth, region train, peanut butter jar, rock/ambient region music, main menu/pause music, and air fan.
 
 Characters: G (dragon/cat hybrid character), Bagel (eagle character), Underscored (deer character)
 
