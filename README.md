@@ -25,8 +25,12 @@ Characters: G (dragon/cat hybrid character), Bagel (eagle character), Underscore
 
 ----------------------------------------------------------------------------------------------------------------------------
 
+
+
 Mechanics: there are ramp jumps, driving, jam spills, and air floating.
 
 Dynamics: doing tricks off the ramp while airborne, and drifting in the jelly to get a short speed boost.
+
+Art Style: low saturation--warm colors; the background is a little greyed-out. motorcycle will have a purple emphasis.
 
 Aesthetic: player feels expression because they get to create their own tricks.
