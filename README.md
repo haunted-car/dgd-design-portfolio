@@ -31,6 +31,6 @@ Mechanics: there are ramp jumps, driving, jam spills, and air floating.
 
 Dynamics: doing tricks off the ramp while airborne, and drifting in the jelly to get a short speed boost.
 
-Art Style: low saturation--warm colors; the background is a little greyed-out. motorcycle will have a purple emphasis.
+Art Style: low saturation--warm colors; the background is a little greyed-out. motorcycle will have a purple emphasis. Camera is top-down (known as 3/4 angle) to help look for future obstacles. Animation principles like exaggeration will be used for the speeding up of the motorcycle. 
 
 Aesthetic: player feels expression because they get to create their own tricks.
