@@ -21,7 +21,7 @@ Hazards: jelly spill, jelly-throwing catapoult.
 
 Other: moving background, collection booth, region train, peanut butter jar, rock/ambient region music, main menu/pause music, and air fan.
 
-Characters: G (dragon/cat hybrid character), Bagel (eagle character), Underscored (deer character)
+Characters: G-Caps (dragon/cat hybrid character), Bagel (eagle character), Underscored (deer character)
 
 ----------------------------------------------------------------------------------------------------------------------------
 
@@ -31,6 +31,6 @@ Mechanics: there are ramp jumps, driving, jam spills, and air floating.
 
 Dynamics: doing tricks off the ramp while airborne, and drifting in the jelly to get a short speed boost.
 
-Art Style: low saturation--warm colors; the background is a little greyed-out. motorcycle will have a purple emphasis. Camera is top-down (known as 3/4 angle) to help look for future obstacles. Animation principles like exaggeration will be used for the speeding up of the motorcycle. 
+Art Style: low saturation--warm colors; the background is a little greyed-out. motorcycle will have a purple emphasis. Camera is top-down (known as 3/4 angle) to help look for future obstacles. Animation principles like exaggeration will be used for the speeding up of the motorcycle. Game is about the characters growing, finding peace, and playfulness. I'm aiming for a similar art style to Sonic Frontiers. Animations will look choppy (24 fps) on 'ones' and slower paced scene have 'twos' (12 fps) (otherwise to make a 12 fps work needs two of the same exact frame twice)
 
 Aesthetic: player feels expression because they get to create their own tricks.
