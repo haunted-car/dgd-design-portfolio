@@ -35,4 +35,8 @@ Aesthetic: player feels expression because they get to create their own tricks.
 
 ----------------------------------------------------------------------------------------------------------------------------
 
-Backstory: G-Caps is trying to pay off his eviction notice that he recently got, which he is motivated by his dad's death to reclaim his father's studio. He is excellent at predicting future hazards right before they happen. He isn't so great at driving his motorcycle. He normally goes for the longer option, even though he is offered the easy way. Most of the easy ways end up to a hazard.
+Backstory: G-Caps is trying to pay off his eviction notice that he recently got, which he is motivated by his dad's death to reclaim his father's studio. He is excellent at predicting future hazards right before they happen. He isn't so great at driving his motorcycle. He normally goes for the longer option, even though he is offered the easy way. Most of the easy ways end up to a hazard. He was going to apply for the company to deliver packages, but inside them contained illegal assets--in which Bagel told him about when he got fired.
+
+Underscored has had a rough life growing up--always was manipulated and treated badly. He makes a promise with himself and wants to not let this happen to anyone. Underscored is very socially awkward and wears a mask. He finds G-Caps is different than the rest of society and chooses him as his first person to help. When people return the offer to him, he often is a little hesitant, but accepts it anyway despite his uncomfort.
+
+Bagel came from a previous job about building machinery inside the companies hangar, only to find out they were purchasing illegal assets in their spare time. He found this wrong and bought his own hangar, resulting in him losing his last paycheck, which could've been life changing. He met G-Caps, which he was about to apply for the company, but told him not to. They became really great friends.
