@@ -29,9 +29,11 @@ Mechanics: there are ramp jumps, driving, jam spills, and air floating.
 
 Dynamics: doing tricks off the ramp while airborne, and drifting in the jelly to get a short speed boost.
 
-Art Style: low saturation--warm colors; the background is a little greyed-out. motorcycle will have a purple emphasis. Camera is top-down (known as 3/4 angle) to help look for future obstacles. Animation principles like exaggeration will be used for the speeding up of the motorcycle. Game is about the characters growing, finding peace, and playfulness. I'm aiming for a similar art style to Sonic Frontiers. Animations will look choppy (24 fps) on 'ones' and slower paced scene have 'twos' (12 fps) (otherwise to make a 12 fps work needs two of the same exact frame twice) Original idea for characters was for them to appear pixelated while the background was hand-drawn, but I decided its going to be the opposite. I think it will save me a lot of time that way.
+Art Style: low saturation--warm colors; the background is a yellow tint representing the nostalgia of a long time ago. Camera is top-down (known as 3/4 angle) to help look for future obstacles. Game is about the characters growing, finding peace, and playfulness. I'm aiming for a similar art style to Sonic Frontiers. Original idea for characters was for them to appear pixelated while the background was hand-drawn, but I decided its going to be the opposite. I think it will save me a lot of time that way. Characters and world will be cel-shaded. (I'll do some research on that) 
 
 Aesthetic: player feels expression because they get to create their own tricks.
+
+Animation: Animation principles like exaggeration will be used for the speeding up of the motorcycle; will have a purple emphasis representing progression. Animations will look choppy (24 fps) on 'ones' and slower paced scene have 'twos' (12 fps) (otherwise to make a 12 fps work needs two of the same exact frame twice)
 
 ----------------------------------------------------------------------------------------------------------------------------
 
