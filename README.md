@@ -19,7 +19,7 @@ UI: main menu, pause menu, peanut butter collect animation, stunt points, specia
 
 Hazards: jelly spill, jelly-throwing catapoult.
 
-Other: moving background, collection booth, region train, peanut butter jar, rock/ambient region music, main menu/pause music, and air fan.
+Other: moving background, collection booth, region train, peanut butter jar, rock/ambient region music, main menu/pause music, air fan, and stunt plane.
 
 Characters: G-Caps (dragon/cat hybrid character), Bagel (eagle character), Underscored (deer character)
 
@@ -41,4 +41,4 @@ Backstory: G-Caps is trying to pay off his eviction notice that he recently got,
 
 Underscored has had a rough life growing up--always was manipulated and treated badly. He makes a promise with himself and wants to not let this happen to anyone. Underscored is very socially awkward and wears a mask. He finds G-Caps is different than the rest of society and chooses him as his first person to help. When people return the offer to him, he often is a little hesitant, but accepts it anyway despite his uncomfort.
 
-Bagel came from a previous job about building machinery inside the companies hangar, only to find out they were purchasing illegal assets in their spare time. He found this wrong and bought his own hangar, resulting in him losing his last paycheck, which could've been life changing. He met G-Caps, which he was about to apply for the company, but told him not to. They became really great friends.
+Bagel came from a previous job about building machinery inside the companies hangar, only to find out they were purchasing illegal assets in their spare time. He found this wrong and bought his own hangar, resulting in him losing his last paycheck, which could've been life changing. He met G-Caps, which he was about to apply for the company, but told him not to. They became really great friends. Bagel has been known to recklessly-awesomely do barrel rolls midair, which he then often tries his hardest not to. (the machinery that holds the motorcycle in place encloses inside the plane during rolls, so there is less drag)
