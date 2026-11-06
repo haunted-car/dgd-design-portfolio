@@ -4,35 +4,35 @@ GDD Part 1 final: After-Glade
 
 Press the W key to begin your journey! After getting another eviction notice on your personal music studio--you probably have a million by now--you decide its best to stay at your friends hangar. Your anthropomorphic eagle friend understands what your going through after you explain it to him. He wants to help you out.
 
-Travel through regions such as cloudy-deserts or even rainy-graveyards. You prefer peace being a leapord dog--but you fortunately aren't alone on this journey. Meet a shy companion--who will be supplying you some important peanut butter jars throughout each region. You find out the jelly isn't such a nuisance after all..
+Travel through regions such as cloudy-deserts or even rainy-graveyards. You prefer peace being a leapord dog--but you fortunately aren't alone on this journey.  Meet a shy companion--who will be supplying you some important peanut butter jars throughout each region. You find out the jelly isn't such a nuisance after all..
 
 ----------------------------------------------------------------------------------------------------------------------------
 
 This game can be compared to Sonic The Hedgehog. After-Glade is a platformer/racing hybrid. Recommended for teens of starting skills.
 
-You can win each stage by reaching the finish line. When you drive in jelly (acts as oil) you will slide and lose a spoon. Lose all spoons and you restart at the last checkpoint. Each stage will contain a certain amount of spoons to replenish your status.
+You can win each stage by reaching the green trapezoid. When you drive in jelly (acts as oil) you will slide and lose a spoon. Lose all spoons and you restart at the last checkpoint. Each stage will contain a certain amount of spoons to replenish your status. Your end goal is to wipe out the bad company with your friends.
 
 ----------------------------------------------------------------------------------------------------------------------------
 
 Initial asset list:
-UI: main menu, pause menu, peanut butter collect animation, stunt points, special points, and region complete score.
+UI: main menu, pause menu, save button, peanut butter icon, special jar icon, and region complete animation.
 
-Hazards: jelly spill, jelly-throwing catapoult.
+Hazards: jelly spill, jelly-throwing catapoult, lasers.
 
-Other: moving background, collection booth, region train, peanut butter jar, rock/ambient region music, main menu/pause music, air fan, and stunt plane.
+Other: moving background, ramps, collection booth, region trains, peanut butter jar, lo-fi/ambient music, main menu/pause music, air fan, and stunt plane.
 
-Characters: G-Caps (leapord/dog hybrid character), Bagel (eagle character), Underscored (deer character)
+Characters: G-Caps (leapord/dog hybrid character), Bagel (eagle character), Underscored (deer/dragon hybrid character)
 
 ----------------------------------------------------------------------------------------------------------------------------
 
 Mechanics: there are ramp jumps, driving, jam spills, and air floating.
 
-Dynamics: doing tricks off the ramp while airborne, and drifting in the jelly to get a short speed boost.
+Dynamics: doing tricks off the ramp while airborne, and drifting in the jelly to get extra points.
 
 Art Style: low saturation--warm colors; the background is a yellow tint representing the nostalgia of a long time ago. 
 Accent colors includes green, purple, and red. Camera is top-down (known as 3/4 angle) to help look for future obstacles. Game is about the characters finding peace, working together, and supporting each other. I'm aiming for a similar art style to Sonic Frontiers. Original idea for characters was for them to appear pixelated while the background was hand-drawn, but I decided its going to be the opposite. I think it will save me a lot of time that way. Characters and world will be cel-shaded. (I'll do some research on that) 
 
-Aesthetic: player feels expression because they get to create their own tricks.
+Aesthetic: player feels expression because they get to create their own tricks combos.
 
 Animation: Animation principles like exaggeration will be used for the speeding up of the motorcycle; will have a purple emphasis representing progression. Animations will look choppy (24 fps) on 'ones' and slower paced scene have 'twos' (12 fps) (otherwise to make a 12 fps work needs two of the same exact frame twice)
 
