@@ -4,22 +4,22 @@ GDD Part 1 : After-Glade -- rough draft
 
 Press the W key to begin your journey! After getting another eviction notice on your personal music studio--you probably have a million by now--you decide its best to stay at your friends hangar. Your anthropomorphic eagle friend understands what your going through after you explain it to him. He wants to help you out.
 
-Travel through regions such as cloudy-deserts or even rainy-graveyards. You prefer peace being a leapord dog--but you fortunately aren't alone on this journey.  Meet a shy companion--who will be supplying you some important peanut butter jars throughout each region. You find out the jelly isn't such a nuisance after all..
+Travel through regions such as cloudy-deserts or even rainy-graveyards. You prefer peace --but you fortunately aren't alone on this journey.  Meet a shy companion--who will be supplying you some important peanut butter jars throughout each techno (region). You find out the jelly isn't such a nuisance after all..
 
 ----------------------------------------------------------------------------------------------------------------------------
 
-This game can be compared to Sonic The Hedgehog. After-Glade is a platformer/racing hybrid. Recommended for teens of starting skills.
+This game can be compared to Sonic The Hedgehog. After-Glade is a platformer/racing hybrid. Recommended for teens of beginning skills.
 
-You can win each stage by reaching the green trapezoid. When you drive in jelly (acts as oil) you will slide and lose a spoon. Lose all spoons and you restart at the last checkpoint. Each stage will contain a certain amount of spoons to replenish your status. Your end goal is to wipe out the bad company with your friends.
+You can win each stage by reaching the green hexagon. When you drive in  electric jelly (acts as oil) you will slide and lose a spoon. Lose all spoons and you restart at the last checkpoint (there will be a hidden elevator in the ground to transport you) Each stage will contain a certain amount of spoons to replenish your status. Your end goal is to wipe out the bad company with your friends.
 
 ----------------------------------------------------------------------------------------------------------------------------
 
 Initial asset list:
-UI: main menu, pause menu, save button, peanut butter icon, special jar icon, and region complete animation.
+UI: main menu, pause menu, save button, peanut butter icon, special jar icon, and techno complete animation.
 
-Hazards: jelly spill, jelly-throwing catapoult, lasers.
+Hazards: electric jelly spill, electric jelly-throwing catapoult, lasers.
 
-Other: moving background, ramps, collection booth, peanut butter jar, lo-fi/ambient music, main menu/pause music, air fan, and stunt plane.
+Other: moving background, ramps, collection booth, peanut butter jar, rock/inspiration music, main menu/pause music, air fan, and stunt plane.
 
 Characters: G-Caps (beastman[dog]), Gravel (beastman[eagle]), Underscored (beastman[deer])
 
