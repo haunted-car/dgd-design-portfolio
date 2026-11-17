@@ -1,6 +1,6 @@
 # dgd-design-portfolio -- After-Glade
 
-GDD Part 1 final: After-Glade
+GDD Part 1 : After-Glade -- rough draft
 
 Press the W key to begin your journey! After getting another eviction notice on your personal music studio--you probably have a million by now--you decide its best to stay at your friends hangar. Your anthropomorphic eagle friend understands what your going through after you explain it to him. He wants to help you out.
 
@@ -19,9 +19,9 @@ UI: main menu, pause menu, save button, peanut butter icon, special jar icon, an
 
 Hazards: jelly spill, jelly-throwing catapoult, lasers.
 
-Other: moving background, ramps, collection booth, region trains, peanut butter jar, lo-fi/ambient music, main menu/pause music, air fan, and stunt plane.
+Other: moving background, ramps, collection booth, peanut butter jar, lo-fi/ambient music, main menu/pause music, air fan, and stunt plane.
 
-Characters: G-Caps (leapord/dog hybrid character), Bagel (eagle character), Underscored (deer/dragon hybrid character)
+Characters: G-Caps (beastman[dog]), Gravel (beastman[eagle]), Underscored (beastman[deer])
 
 ----------------------------------------------------------------------------------------------------------------------------
 
